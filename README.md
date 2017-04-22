@@ -1,0 +1,1 @@
+Lm335.h is a library for plugging analog sensors of LM x35 series.
